@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nisha/Desktop/coursera/Beginning Game Programming with C#/Week 4/GameProject/GameProjectContent/graphics/burger.png</File>
+    <File>C:/Users/nisha/Desktop/coursera/Beginning Game Programming with C#/Week 4/GameProject/GameProjectContent/graphics/explosion.png</File>
+    <File>C:/Users/nisha/Desktop/coursera/Beginning Game Programming with C#/Week 4/GameProject/GameProjectContent/graphics/frenchfries.png</File>
+    <File>C:/Users/nisha/Desktop/coursera/Beginning Game Programming with C#/Week 4/GameProject/GameProjectContent/graphics/teddybear.png</File>
+    <File>C:/Users/nisha/Desktop/coursera/Beginning Game Programming with C#/Week 4/GameProject/GameProjectContent/graphics/teddybearprojectile.png</File>
+    <File>C:/Users/nisha/Desktop/coursera/Beginning Game Programming with C#/Week 4/GameProject/GameProjectContent/audio/BurgerDamage.wav</File>
+    <File>C:/Users/nisha/Desktop/coursera/Beginning Game Programming with C#/Week 4/GameProject/GameProjectContent/audio/BurgerDeath.wav</File>
+    <File>C:/Users/nisha/Desktop/coursera/Beginning Game Programming with C#/Week 4/GameProject/GameProjectContent/audio/BurgerShot.wav</File>
+    <File>C:/Users/nisha/Desktop/coursera/Beginning Game Programming with C#/Week 4/GameProject/GameProjectContent/audio/Explosion.wav</File>
+    <File>C:/Users/nisha/Desktop/coursera/Beginning Game Programming with C#/Week 4/GameProject/GameProjectContent/audio/TeddyBounce.wav</File>
+    <File>C:/Users/nisha/Desktop/coursera/Beginning Game Programming with C#/Week 4/GameProject/GameProjectContent/audio/TeddyShot.wav</File>
+    <File>C:/Users/nisha/Desktop/coursera/Beginning Game Programming with C#/Week 4/GameProject/GameProjectContent/fonts/Arial20.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

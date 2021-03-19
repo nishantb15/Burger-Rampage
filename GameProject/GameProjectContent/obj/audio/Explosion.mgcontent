@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/nisha/Desktop/coursera/Beginning Game Programming with C#/Week 4/GameProject/GameProjectContent/audio/Explosion.wav</SourceFile>
+  <SourceTime>2017-07-14T22:37:21.3824656-05:00</SourceTime>
+  <DestFile>C:/Users/nisha/Desktop/coursera/Beginning Game Programming with C#/Week 4/GameProject/GameProjectContent/bin/audio/Explosion.xnb</DestFile>
+  <DestTime>2017-07-14T22:52:32.5083105-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T09:05:36-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T09:05:36-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
