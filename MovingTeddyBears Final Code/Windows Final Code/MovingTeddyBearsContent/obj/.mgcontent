@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Dropbox/Courses/GDD 1200/Udemy/Lecture Materials/Section 5 MonoGame Basics/4 More Practice/MovingTeddyBears/MovingTeddyBearsContent/graphics/teddybear0.png</File>
+    <File>D:/Dropbox/Courses/GDD 1200/Udemy/Lecture Materials/Section 5 MonoGame Basics/4 More Practice/MovingTeddyBears/MovingTeddyBearsContent/graphics/teddybear1.png</File>
+    <File>D:/Dropbox/Courses/GDD 1200/Udemy/Lecture Materials/Section 5 MonoGame Basics/4 More Practice/MovingTeddyBears/MovingTeddyBearsContent/graphics/teddybear2.png</File>
+  </SourceFiles>
+</SourceFileCollection>
